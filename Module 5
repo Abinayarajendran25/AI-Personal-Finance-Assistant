@@ -1,13 +1,12 @@
-Today, Module 5 – Session Management and Secure User Access was successfully implemented and updated on GitHub. This module helps users securely maintain login sessions, manage active user access, and protect personal financial information through a secure and user-friendly interface.
-
-Features:
+# Topic: AI Personal Finance Assistant
+- Today, Module 5 – Session Management and Secure User Access was successfully implemented and updated on GitHub. This module helps users securely maintain login sessions, manage active user access, and protect personal financial information through a secure and user-friendly interface.
+# Features:
 • Secure user session handling
 • Login session management
 • Automatic session validation
 • Protected access to financial data
 • Secure logout functionality
-
-Advantages:
+# Advantages:
 • Improves application security
 • Protects user accounts from unauthorized access
 • Maintains safe and secure user sessions
